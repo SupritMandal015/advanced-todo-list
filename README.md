@@ -27,7 +27,7 @@ Advanced To-Do List App: A powerful and elegant desktop To-Do List application b
 
 #### -- pip install PyQt5
 
-3.Run the application:
+3. Run the application:
 
 python main.py
 
