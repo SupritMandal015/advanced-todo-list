@@ -34,9 +34,13 @@ Advanced To-Do List App: A powerful and elegant desktop To-Do List application b
 
 1. Clone the repository or download the code.
 
+```bash
+git clone https://github.com/SupritMandal015/advanced-todo-list.git
+```
+
 2. Install dependencies:
 
-- Open terminal
+- Open terminal/powershell
 
 ```bash
 pip install PyQt5
