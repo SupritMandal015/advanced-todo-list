@@ -15,13 +15,16 @@ Install PyQt5 using:
 pip install PyQt5
 
 🚀 How to Run the App
+
 ✅ Prerequisites
+
 Python 3.7 or above
 
 Pip installed and working
 
 ▶️ Steps to Run
 1.Clone the repository or download the code.
+
 2.Install dependencies:
 open terminal
 --pip install PyQt5
