@@ -5,7 +5,7 @@ Advanced To-Do List App: A powerful and elegant desktop To-Do List application b
 
 - PyQt5 – For GUI interface
 - datetime – For date and time operations
-- **json – To store and load tasks
+- json – To store and load tasks
 - os – File system interaction
 - sys – Application control
 
