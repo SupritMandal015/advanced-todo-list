@@ -3,11 +3,11 @@ Advanced To-Do List App: A powerful and elegant desktop To-Do List application b
 
 ## 📦 Libraries Used
 
--> PyQt5 – For GUI interface
--> datetime – For date and time operations
--> json – To store and load tasks
--> os – File system interaction
--> sys – Application control
+- PyQt5 – For GUI interface
+- datetime – For date and time operations
+- json – To store and load tasks
+- os – File system interaction
+- sys – Application control
 
 ## 🚀 How to Run the App
 
@@ -19,13 +19,13 @@ Advanced To-Do List App: A powerful and elegant desktop To-Do List application b
 
 ### ▶️ Steps to Run
 
-1.Clone the repository or download the code.
+1. Clone the repository or download the code.
 
-2.Install dependencies:
+2. Install dependencies:
 
-open terminal
+- Open terminal
 
-#### --pip install PyQt5
+#### -- pip install PyQt5
 
 3.Run the application:
 
@@ -35,8 +35,8 @@ python main.py
 
 ## 📂 Project Files
 
-main.py – The main application code
+- main.py – The main application code
 
-tasks.json – Auto-generated file to save your tasks
+- tasks.json – Auto-generated file to save your tasks
 
 
