@@ -9,6 +9,17 @@ Advanced To-Do List App: A powerful and elegant desktop To-Do List application b
 - os – File system interaction
 - sys – Application control
 
+## 📸 Screenshot
+
+### 🏠 Main Interface
+
+![Main Window](screenshot.png)
+
+### 📋 Contact Search Example
+
+![Search Contact](https://user-images.githubusercontent.com/.../screenshot.png)
+
+
 ## 🚀 How to Run the App
 
 ### ✅ Prerequisites
@@ -25,11 +36,15 @@ Advanced To-Do List App: A powerful and elegant desktop To-Do List application b
 
 - Open terminal
 
-#### -- pip install PyQt5
+```bash
+pip install PyQt5
+```
 
 3. Run the application:
 
+```bash
 python main.py
+```
 
 #### The To-Do List application window will open.
 
