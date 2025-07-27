@@ -27,16 +27,21 @@ Pip installed and working
 1.Clone the repository or download the code.
 
 2.Install dependencies:
+
 open terminal
+
 --pip install PyQt5
 
 3.Run the application:
+
 python main.py
 
 The To-Do List application window will open.
 
 📂 Project Files
+
 main.py – The main application code
+
 tasks.json – Auto-generated file to save your tasks
 
 
