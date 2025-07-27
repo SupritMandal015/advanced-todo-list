@@ -26,9 +26,9 @@ Advanced To-Do List App: A powerful and elegant desktop To-Do List application b
 
 ### ✅ Prerequisites
 
-#### Python 3.7 or above
+#### - Python 3.7 or above
 
-#### Pip installed and working
+#### - PyQt5 library
 
 ### ▶️ Steps to Run
 
