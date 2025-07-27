@@ -23,7 +23,7 @@ Python 3.7 or above
 
 Pip installed and working
 
-▶️ Steps to Run
+### ▶️ Steps to Run
 
 1.Clone the repository or download the code.
 
